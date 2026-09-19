@@ -1,0 +1,300 @@
+{
+  "artist": "That Boy Hi Hat",
+  "artwork": {
+    "hero": "assets/zooted-zone-cover.jpg",
+    "hero_alt": "Zooted Zone single artwork",
+    "hero_note": "Verified single artwork, captured 2026-09-17",
+    "hero_verified": true
+  },
+  "bio_paragraphs": [
+    {
+      "source": "CWI artist record, owner-confirmed 2026-09-15",
+      "text": "That Boy Hi Hat is an alternative rap artist from Frederick, Maryland, managed by Cumulative Web Inc.",
+      "volatile": false
+    },
+    {
+      "source": "CWI Medium articles + owner-confirmed credits 2026-09-15",
+      "text": "His breakout single \"Zooted Zone\" was produced by Kokurcho, mixed and mastered by Hybrid at his Hagerstown, Maryland studio, and recorded in Hagerstown in February 2023.",
+      "volatile": false
+    },
+    {
+      "source": "Owner-confirmed recording location 2026-09-15; DistroKid Discovery Mode schedule verified 2026-09-18",
+      "text": "His 2026 single \"Diabolique\" was recorded at Cue Recording Studio in Arlington, Virginia, and is the focus of a Spotify Discovery Mode campaign scheduled for October 1–31, 2026 (approved September 11, 2026).",
+      "volatile": false
+    }
+  ],
+  "contact": "hp@cumulativeweb.com",
+  "contact_role": "Business & sync inquiries (Cumulative Web Inc)",
+  "freshness_manifest": "https://cumulativewebinc.github.io/cwi-learn/freshness.json",
+  "freshness_rule": "A number is FRESH when observed within the last 48 hours. Older numbers are labeled STALE with their last honest observation date. Timestamps are never manufactured — observed_at is written only by real verification events.",
+  "genre": "Alternative rap",
+  "home_base": "Frederick, Maryland",
+  "key_tracks": [
+    {
+      "note": "Breakout single",
+      "spotify_track_id": "0emH8ktA8x4DkOFLsG5xkW",
+      "title": "Zooted Zone",
+      "verified": true
+    },
+    {
+      "note": "2026 single; October 2026 Discovery Mode focus",
+      "spotify_track_id": "2eSyWmIdPzEMyWejLb2LBj",
+      "title": "Diabolique",
+      "verified": true
+    },
+    {
+      "note": "Holding on New Rap Hits",
+      "spotify_track_id": null,
+      "title": "Doves & Diamonds",
+      "verified": true
+    },
+    {
+      "note": "Holding on New Rap Hits",
+      "spotify_track_id": null,
+      "title": "Shaka Zulu",
+      "verified": true
+    },
+    {
+      "note": "New on Eric Alper's 360°",
+      "spotify_track_id": null,
+      "title": "Rainbows And Roses",
+      "verified": true
+    }
+  ],
+  "managed_by": "Cumulative Web Inc",
+  "one_minute": [
+    "Alternative rap artist from Frederick, Maryland, managed by Cumulative Web Inc.",
+    "Breakout single \"Zooted Zone\" — over 300,000 lifetime Spotify streams (last verified count 307,439).",
+    "Catalog at 956,340 Spotify streams — 95.6% of the 1,000,000-stream goal (last verified count).",
+    "Holding verified playlist placements on three independent curators' playlists.",
+    "2026 single \"Diabolique\" is the focus of a scheduled October 2026 Spotify Discovery Mode campaign."
+  ],
+  "placements": [
+    {
+      "curator": "Eric Alper (music publicist)",
+      "current_position": {
+        "observed_at": "2026-09-18",
+        "of": 320,
+        "position": 316
+      },
+      "id": "eric-alper-zooted",
+      "playlist": "360°: The Best Indie Music",
+      "playlist_id": "spotify:playlist:0hsLLFaADDjU54tFqaImFh",
+      "source": "CWI playlist engine scans 2026-09-17 / 2026-09-18",
+      "timeline": [
+        {
+          "note": "Added in reply to CWI's 2026-09-14 pitch; full playlist scan.",
+          "observed_at": "2026-09-17",
+          "of": 216,
+          "position": 216
+        },
+        {
+          "note": "Playlist grew 216 → 320 tracks overnight; re-verified by full scan. Position changed because the playlist changed — not the track.",
+          "observed_at": "2026-09-18",
+          "of": 320,
+          "position": 316
+        }
+      ],
+      "track": "Zooted Zone",
+      "verification_method": "full playlist scan",
+      "volatile": true
+    },
+    {
+      "curator": "Eric Alper (music publicist)",
+      "current_position": {
+        "observed_at": "2026-09-18",
+        "of": 320,
+        "position": 317
+      },
+      "id": "eric-alper-rainbows",
+      "playlist": "360°: The Best Indie Music",
+      "playlist_id": "spotify:playlist:0hsLLFaADDjU54tFqaImFh",
+      "source": "CWI playlist engine scan 2026-09-18",
+      "timeline": [
+        {
+          "note": "New verified placement — added by the curator that morning.",
+          "observed_at": "2026-09-18",
+          "of": 320,
+          "position": 317
+        }
+      ],
+      "track": "Rainbows And Roses",
+      "verification_method": "full playlist scan",
+      "volatile": true
+    },
+    {
+      "curator": "Audiartist",
+      "current_position": {
+        "observed_at": "2026-09-17",
+        "of": 140,
+        "position": 21
+      },
+      "id": "nrh-shakazulu",
+      "playlist": "New Rap Hits",
+      "playlist_id": "spotify:playlist:5zhnSpZqKRRaOvRMWuT0bL",
+      "source": "CWI playlist engine collect 2026-09-17",
+      "timeline": [
+        {
+          "note": "Accepted from CWI submission queue (#25821).",
+          "observed_at": "2026-09-17",
+          "of": 140,
+          "position": 21
+        }
+      ],
+      "track": "Shaka Zulu",
+      "verification_method": "engine collect",
+      "volatile": true
+    },
+    {
+      "curator": "Audiartist",
+      "current_position": {
+        "observed_at": "2026-09-17",
+        "of": 140,
+        "position": 30
+      },
+      "id": "nrh-zooted",
+      "playlist": "New Rap Hits",
+      "playlist_id": "spotify:playlist:5zhnSpZqKRRaOvRMWuT0bL",
+      "source": "CWI playlist engine collect 2026-09-17",
+      "timeline": [
+        {
+          "note": "Accepted from CWI submission queue (#25818).",
+          "observed_at": "2026-09-17",
+          "of": 140,
+          "position": 30
+        }
+      ],
+      "track": "Zooted Zone",
+      "verification_method": "engine collect",
+      "volatile": true
+    },
+    {
+      "curator": "Audiartist",
+      "current_position": {
+        "observed_at": "2026-09-17",
+        "of": 140,
+        "position": 31
+      },
+      "id": "nrh-doves",
+      "playlist": "New Rap Hits",
+      "playlist_id": "spotify:playlist:5zhnSpZqKRRaOvRMWuT0bL",
+      "source": "CWI playlist engine collect 2026-09-17",
+      "timeline": [
+        {
+          "note": "Accepted from CWI submission queue (#25820).",
+          "observed_at": "2026-09-17",
+          "of": 140,
+          "position": 31
+        }
+      ],
+      "track": "Doves & Diamonds",
+      "verification_method": "engine collect",
+      "volatile": true
+    },
+    {
+      "curator": "Flow",
+      "current_position": {
+        "observed_at": "2026-09-17",
+        "of": 21,
+        "position": 21
+      },
+      "id": "flow-zooted",
+      "playlist": "No Label Needed",
+      "playlist_id": null,
+      "source": "CWI playlist engine scan 2026-09-17",
+      "timeline": [
+        {
+          "note": "Curator claimed the add 2026-09-14; scan confirmed 2026-09-17 (late delivery after two absent scans on 2026-09-15).",
+          "observed_at": "2026-09-17",
+          "of": 21,
+          "position": 21
+        }
+      ],
+      "track": "Zooted Zone",
+      "verification_method": "playlist scan",
+      "volatile": true
+    }
+  ],
+  "press_coverage": [],
+  "press_note": "No press coverage verified yet. Coverage claims appear here only with outlet, date, and link. For press inquiries: hp@cumulativeweb.com.",
+  "schema": "living-press-kit/v1",
+  "socials": [
+    {
+      "handle": "@cumulativeweb",
+      "note": "Official CWI account",
+      "platform": "TikTok"
+    },
+    {
+      "handle": "@cumulativeweb",
+      "note": "Official CWI account",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@lanskyblack",
+      "note": "Black Lansky (personal)",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@cumulativeweb",
+      "note": "Official CWI account",
+      "platform": "X"
+    },
+    {
+      "handle": "@cumulativeweb",
+      "note": "Official CWI account",
+      "platform": "YouTube / YouTube Music"
+    },
+    {
+      "handle": "@cumulativewebinc",
+      "note": "Official CWI publication",
+      "platform": "Substack"
+    }
+  ],
+  "spotify_artist_id": "2f9j460EwjfvjYp3trBcb7",
+  "stats": [
+    {
+      "context": "95.6% of 1,000,000 — 43,660 remaining",
+      "id": "road-1m",
+      "label": "Catalog Spotify streams (road to 1M)",
+      "observed_at": "2026-09-18",
+      "refresh": "Spotify analytics sweep",
+      "source": "CWI stream count, recorded 2026-09-18",
+      "value": "956,340",
+      "volatile": true,
+      "freshness_path": null
+    },
+    {
+      "context": "Breakout single; far above the artist's monthly-listener baseline",
+      "id": "zooted-lifetime",
+      "label": "\"Zooted Zone\" lifetime Spotify plays",
+      "observed_at": "2026-09-14",
+      "refresh": "Spotify analytics sweep",
+      "source": "analytics pull 2026-09-14",
+      "value": "307,439",
+      "volatile": true,
+      "freshness_path": "metrics.lifetime_spotify_plays"
+    },
+    {
+      "context": "Spotify artist page",
+      "id": "monthly-listeners",
+      "label": "Monthly listeners",
+      "observed_at": "2026-09-14",
+      "refresh": "Spotify analytics sweep",
+      "source": "analytics pull 2026-09-14",
+      "value": "171",
+      "volatile": true,
+      "freshness_path": "metrics.monthly_listeners"
+    },
+    {
+      "context": "\"That Boy Hi Hat – Alternative Rap Complete Catalog (AI Learning Set)\" public playlist",
+      "id": "catalog-tracks",
+      "label": "Catalog tracks (AI Learning Set)",
+      "observed_at": "2026-09-15",
+      "refresh": "manual recount",
+      "source": "playlist recount 2026-09-15 (corrected from 34)",
+      "value": "24",
+      "volatile": true,
+      "freshness_path": null
+    }
+  ]
+}
